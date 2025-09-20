@@ -3,7 +3,10 @@ on:
   push:
     branches:
       - main
+      - develop
   pull_request:
+      - main
+      - develop
     types: [opened, synchronize, reopened]
 jobs:
   build:
