@@ -29,6 +29,7 @@
 	<properties>
 		<java.version>21</java.version>
 		<sonar.organization>hn1125</sonar.organization>
+		<sonar.projectKey>HN1125_CodexApp</sonar.projectKey>
 	</properties>
 	<dependencies>
 		<dependency>
