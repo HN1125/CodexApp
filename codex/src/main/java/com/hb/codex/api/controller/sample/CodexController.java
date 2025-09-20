@@ -1,4 +1,4 @@
-﻿package com.hb.codex.api.controller.sample;
+package com.hb.codex.api.controller.sample;
 
 import java.time.OffsetDateTime;
 
