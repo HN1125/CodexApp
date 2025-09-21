@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "hn1125",
+        "projectKey": "HN1125_CodexApp"
+    }
+}
